@@ -1,0 +1,30 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  // font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+  //   Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: 'Poppins', sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+.foot{
+  width: 30px;
+  height: 20px;
+  color: #C4242B;
+
+}
+.card-body{
+  bottom: 0;
+  background-color:white;
+  text-align: center;
+  padding: 10px;
+  margin-top: 600px;
+}
